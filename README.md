@@ -1,3 +1,7 @@
+A fork of Colinshark's exaroton API for Python. This version has limited commands for use by me in my other repos. 
+
+
+
 # exaroton
 
 A Python Wrapper for the [exaroton API](https://developers.exaroton.com/)
